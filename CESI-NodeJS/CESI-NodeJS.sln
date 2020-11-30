@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CESI-NodeJS", "CESI-NodeJS\CESI-NodeJS.njsproj", "{6A922015-98AB-4B7B-BC3B-9737470594B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A922015-98AB-4B7B-BC3B-9737470594B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A922015-98AB-4B7B-BC3B-9737470594B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A922015-98AB-4B7B-BC3B-9737470594B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A922015-98AB-4B7B-BC3B-9737470594B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62635362-39C4-4277-8448-2B3433A12AAD}
+	EndGlobalSection
+EndGlobal
