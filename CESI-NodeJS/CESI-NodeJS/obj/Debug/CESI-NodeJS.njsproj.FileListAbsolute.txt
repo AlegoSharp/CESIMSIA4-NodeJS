@@ -1,0 +1,3 @@
+C:\Users\quentin\source\repos\CESIMSIA4-NodeJS\CESI-NodeJS\CESI-NodeJS\obj\Debug\CESI-NodeJS.njsprojAssemblyReference.cache
+C:\Users\quentin\source\repos\CESIMSIA4-NodeJS\CESI-NodeJS\CESI-NodeJS\obj\Debug\CESI-NodeJS.njsproj.CoreCompileInputs.cache
+C:\Users\quentin\source\repos\CESIMSIA4-NodeJS\CESI-NodeJS\CESI-NodeJS\bin\Microsoft.NodejsTools.WebRole.dll

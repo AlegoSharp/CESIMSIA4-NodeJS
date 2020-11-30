@@ -28,9 +28,24 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="beers\AffligemBlond.json" />
+    <Content Include="beers\AffligemDubbel.json" />
+    <Content Include="beers\AffligemTripel.json" />
+    <Content Include="beers\beers.json" />
+    <Content Include="beers\ChimayRed.json" />
+    <Content Include="beers\ChimayTriple.json" />
+    <Content Include="beers\StBernardusAbt12.json" />
+    <Content Include="beers\StBernardusPater6.json" />
+    <Content Include="beers\StBernardusTripel.json" />
+    <Content Include="beers\TrappistesRochefort10.json" />
+    <Content Include="beers\TrappistesRochefort6.json" />
+    <Content Include="beers\TrappistesRochefort8.json" />
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="beers\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
   <ProjectExtensions>
